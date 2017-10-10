@@ -1,5 +1,20 @@
 h1{
   text-align: left;
   font: courier;
-  color: blue;
+  color:#5e7e95;
+}
+.nav {
+  background: #5e7e95;
+  height: 80px;
+  width: 100%;
+}
+.header h1 {
+  color: #5e7e95;
+  line-height: 100px;
+  font-size: 80px;
+  margin-top: 0;
+  margin-bottom: 80px;
+}
+img{
+  padding-top: 20px;
 }
